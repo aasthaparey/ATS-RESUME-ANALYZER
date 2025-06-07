@@ -21,6 +21,7 @@ Match relevant skills and keywords
 
 Generate job fit summaries and recommendations
 
+
 📊 Output Includes:
 
 JD Match Percentage
@@ -28,6 +29,7 @@ JD Match Percentage
 List of Missing Keywords
 
 Profile Summary & Suggestions for Improvement
+
 
 🛠️ Tech Stack
 
@@ -42,6 +44,7 @@ PyPDF2: PDF parsing and text extraction
 dotenv: Secure environment variable management
 
 json: For structured output parsing and display
+
 
 
 🔮 Future Improvements
